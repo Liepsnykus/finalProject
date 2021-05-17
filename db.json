@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Batas",
+      "img": "https://www.saucony.com/on/demandware.static/-/Sites-saucony_us-Library/default/dwda0982b1/content/seasonal-content/homepage/2021/02/endorphinshift-d.jpg",
+      "price": 50,
+      "quantity": "32",
+      "favourites": true
+    },
+    {
+      "id": 2,
+      "name": "Kelne",
+      "img": "https://www.apolina.lt/wp-content/uploads/2019/04/darbo-kelnes-pesso-titan-flexpro-125p-pilkos.jpg",
+      "price": 60,
+      "quantity": 12,
+      "favourites": true
+    },
+    {
+      "id": 3,
+      "name": "Kepure",
+      "img": "https://hatroom.eu/images/zoom/hoghatt1.jpg",
+      "price": 30,
+      "quantity": 80,
+      "favourites": false
+    },
+    {
+      "quantity": "20",
+      "price": "30",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51rRV9g1quL._AC_SX425_.jpg",
+      "id": 4,
+      "favourites": true
+    },
+    {
+      "quantity": "1",
+      "price": "10000000",
+      "img": "https://i.pinimg.com/originals/3c/3b/39/3c3b39680dda08ea8ca7e6be888cdd94.png",
+      "id": 5,
+      "favourites": false
+    }
+  ]
+}
